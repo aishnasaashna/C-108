@@ -1,0 +1,36 @@
+body {
+     font-family: 'Playfair Display';
+      background: #ffbe0b; 
+    }
+    .header_div {
+background-color:black ;
+color: chocolate;
+    }
+    
+    .header_div p {
+        font-family:'Cairo' ;
+        color: darkred;
+        letter-spacing: 2px;
+        font-size:15px ;
+        font-weight: bold;
+    }
+
+    .main_div button{
+         font-family: 'Roboto', sans-serif;
+          margin-top: 30px;
+           width: 130px;
+            font-weight: bolder;
+             letter-spacing: 3px;
+             }
+
+.footer {
+    position: fixed;
+    color: deeppink;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: forestgreen;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
